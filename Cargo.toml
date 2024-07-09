@@ -1,0 +1,8 @@
+[package]
+name = "md_quiz_generator_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+rfd = "0.10"
