@@ -1,4 +1,4 @@
-# Markdown Notes Processor
+# Markdown Quiz Generator
 
 ## Overview
 
