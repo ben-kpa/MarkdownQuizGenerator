@@ -1,5 +1,5 @@
 [package]
-name = "md_quiz_generator_rust"
+name = "md_quiz_generator"
 version = "0.1.0"
 edition = "2021"
 
